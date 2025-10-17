@@ -1,4 +1,6 @@
 <?php
+    // Retrieve the value of 'name' from the POST request and store it in the $name variable
+    $name = $_POST['name']
     // Retrieve the value of 'age' from the POST request and store it in the $age variable
     $age = $_POST['age'];
     // Retrieve the value of 'gender' from the POST request and store it in the $gender variable
