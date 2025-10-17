@@ -8,5 +8,5 @@
     // Retrieve the value of 'qoute' (probably meant to be 'quote') from the POST request
     $qoute = $_POST['qoute'];
     //Prints a message using the age, gender, and quote provided
-    echo "You are $fname, a $age-year-old $gender.  Your motto in life is: $qoute";
+    echo "You are $name, a $age-year-old $gender.  Your motto in life is: $qoute";
 ?>
